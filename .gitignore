@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Datasets - DO NOT upload
+dataset/word_raw/
+dataset/word_selected/
+dataset/word_split/
+
+# Processed dataset - generated locally
+dataset/word_processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

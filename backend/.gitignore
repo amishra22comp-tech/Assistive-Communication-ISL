@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+models/*.keras
+models/*.h5
+models/*.tflite
+dataset/raw/
+dataset/processed/
+*.zip
+.DS_Store
